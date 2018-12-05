@@ -6,7 +6,7 @@ app.debug = True
 
 @app.route('/')
 def index():
-    return 'hot damn'
+    return 'hot sauce'
 
 
 if __name__ == '__main__':
